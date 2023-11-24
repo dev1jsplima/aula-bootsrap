@@ -1,0 +1,13 @@
+.navbar-brand img{
+    width: 34px;
+    border-radius: 100%;
+}
+.carousel-item img{
+    width: 650px;
+}
+.alert-primary{
+    text-align: center;
+    font-size: 23px;
+    font-weight: 700;
+    background-color: dodgerblue;
+}
